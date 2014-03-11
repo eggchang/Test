@@ -2,3 +2,5 @@ SD-開頭   =SCHEMATIC DIAGRAM
 SPEC-開頭 =ENGINEERING SPEC 
 TS-開頭   =TEST SPEC(非必要機種文件)
 料號開頭  =PCB
+
+Add more text
